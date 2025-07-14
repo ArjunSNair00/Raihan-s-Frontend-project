@@ -1,0 +1,8 @@
+#bg{
+  position: absolute;
+  width: 500px;
+  height: 700px;
+  backgroud-size:cover;
+  background-position:center;
+  z-index:-1;
+}
